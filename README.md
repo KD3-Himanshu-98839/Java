@@ -58,5 +58,5 @@ This repository contains all solved Java assignments categorized by assignment a
 ---
 
 ### Assignment 09
-* [Question 1](Assignment09_Que01)
+* [Question 01](Assignment09_Que01)
 
